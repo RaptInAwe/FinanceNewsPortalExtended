@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21e2ad03-619b-449c-819d-cf9068e68d65": {
+      "ProjectGuid": "21e2ad03-619b-449c-819d-cf9068e68d65",
+      "DisplayName": "FinanceNewsPortal.API",
+      "ColorIndex": 0
+    },
+    "3511071a-9894-48a0-9d3d-ddb3dd406f23": {
+      "ProjectGuid": "3511071a-9894-48a0-9d3d-ddb3dd406f23",
+      "DisplayName": "FinanceNewsPortal.Web",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
