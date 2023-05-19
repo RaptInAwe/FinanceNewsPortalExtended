@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "3dcTHtIqC5Na9HmqwwgFdUm4/mTYFweF1D8chqT3NRc=",
+  "Source": "FinanceNewsPortal.API",
+  "BasePath": "_content/FinanceNewsPortal.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FinanceNewsPortal.API\\wwwroot",
+      "Source": "FinanceNewsPortal.API",
+      "ContentRoot": "C:\\Users\\COLLABERA\\source\\repos\\FinanceNewsPortal\\FinanceNewsPortal.API\\wwwroot\\",
+      "BasePath": "_content/FinanceNewsPortal.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\COLLABERA\\source\\repos\\FinanceNewsPortal\\FinanceNewsPortal.API\\wwwroot\\img\\user.png",
+      "SourceId": "FinanceNewsPortal.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\COLLABERA\\source\\repos\\FinanceNewsPortal\\FinanceNewsPortal.API\\wwwroot\\",
+      "BasePath": "_content/FinanceNewsPortal.API",
+      "RelativePath": "img/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\user.png"
+    }
+  ]
+}

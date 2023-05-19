@@ -1,0 +1,152 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FinanceNewsPortal.Web
+build_property.RootNamespace = FinanceNewsPortal.Web
+build_property.ProjectDir = C:\Users\COLLABERA\source\repos\FinanceNewsPortal\FinanceNewsPortal.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\COLLABERA\source\repos\FinanceNewsPortal\FinanceNewsPortal.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Administrator/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRvclxDcmVhdGVVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Administrator/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Administrator/GetAllUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYXRvclxHZXRBbGxVc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Auth/EditPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxFZGl0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Auth/EditUserInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxFZGl0VXNlckluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Company/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Company/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Company/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Company/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Company/GetStaffs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxHZXRTdGFmZnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/GetAllCreated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXEdldEFsbENyZWF0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/GetAllPending.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXEdldEFsbFBlbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/ManagePending.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXE1hbmFnZVBlbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticles/ViewCreated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVzXFZpZXdDcmVhdGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticleTags/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVUYWdzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticleTags/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVUYWdzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/NewsArticleTags/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3c0FydGljbGVUYWdzXEdldEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Rates/Currency.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0ZXNcQ3VycmVuY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Rates/Stocks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0ZXNcU3RvY2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/User/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/COLLABERA/source/repos/FinanceNewsPortal/FinanceNewsPortal.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-blucjxkh19
